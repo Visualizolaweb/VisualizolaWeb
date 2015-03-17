@@ -3,11 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 
-	<title>Infinity</title>
+	<title>Visualizo la Web, Diseño y Desarrollo Web a Medida</title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="description" content="">
-	<meta name="author" content="">
+	<meta name="author" content="@guille_valen, @claudiamile">
 
 	<!--[if lt IE 9]> 
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script> 
