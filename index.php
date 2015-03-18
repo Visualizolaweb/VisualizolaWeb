@@ -788,34 +788,34 @@
 <!-- CONTACT -->
 	<section id="contact" class="contact">
 	<div class="container">
-		<h2>Contact us</h2>
+		<h2>Contactenos</h2>
 
 		<div class="contact_content">
 		<div class="row">
 			<div class="col-sm-8">
-				<form id="contact_form" action="someAction">
+				<form id="contact_form" method="POST" action="send.php">
 					<div class="row">
 						<div class="col-sm-6">
-							<input type="text" name="Name" placeholder="Name">
+							<input type="text" required name="Name" placeholder="Nombre">
 						</div>
 
 						<div class="col-sm-6">
-							<input type="text" name="Email" placeholder="Email">
+							<input type="text" required name="Email" placeholder="Correo Electrónico">
 						</div>
 					</div>
 
 					<div class="row">
 						<div class="col-sm-6">
-							<input type="text" name="Phone" placeholder="Phone">
+							<input type="text" required name="Phone" placeholder="Teléfono">
 						</div>
 
 						<div class="col-sm-6">
-							<input type="text" name="Website" placeholder="Website">
+							<input type="text" required name="Subject" placeholder="Asunto">
 						</div>
 					</div>
 
-					<textarea name="Message" placeholder="Message" cols="30" rows="10"></textarea>
-					<a href="" class="btn btn_shadow">Send Message</a>
+					<textarea name="Message" required placeholder="Mensaje" cols="30" rows="10"></textarea>
+					<input type="submit" name="send" id="send" class="btn btn_shadow" value="Enviar Mensaje">
 				</form>
 			</div>
 
@@ -830,16 +830,16 @@
 					<h4><i class="icon_pin"></i>Our address</h4>
 					<table>
 						<tr>
-							<td><b>Address:</b></td>
-							<td>000000 California, 67 street name, US</td>
+							<td><b>Dirección:</b></td>
+							<td>Calle 49 # 79 - 12, Medellín - Colombia</td>
 						</tr>
 						<tr>
-							<td><b>Phone:</b></td>
-							<td>(123) 44 555 666</td>
+							<td><b>Teléfono:</b></td>
+							<td>(+57) 300 299 7730</td>
 						</tr>
 						<tr>
 							<td><b>E-mail:</b></td>
-							<td>seles@sitename.com</td>
+							<td>info@visualizolaweb.com</td>
 						</tr>
 					</table>
 				</div>
