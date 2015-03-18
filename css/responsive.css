@@ -45,7 +45,8 @@ h1 {font-size: 40px;line-height: 1.2em;}
 .slider_main__caption h4 {width: 70%;font-size: 75px;line-height: 1em;}
 .slider_main__caption .btn_wrapper {padding: 65px 0 0 0;}
 
-
+/************************ ABOUT ********************************/
+.
 
 /************************ 4.4. OUR TEAM ************************/
 .our_team__item img {height: 220px;}
@@ -96,7 +97,9 @@ h1 {font-size: 40px;line-height: 1.2em;}
 
 }
 
-
+@media (min-width: 992px){
+#menu_main{display: block !important;}
+}
 
 /****************************************************************************************************
 < 991px
@@ -169,10 +172,7 @@ header .back_top_mobile {width: 30px;height: 30px;display: inline-block;backgrou
 
 /************************ ABOUT US ************************/
 .about_us__text h3 {font-size: 30px;line-height: 1.5em;}
-
 .about_us__item h4 {font-size: 14px;}
-
-
 
 /************************ OUR TEAM ************************/
 .our_team__item {margin: 50px 0 0 0;padding: 0;text-align: left;
