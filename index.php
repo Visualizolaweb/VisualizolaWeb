@@ -63,35 +63,38 @@
 		 						<img class="slide_img__1" src="img/slide_01-1.png" alt="welcome to agency">
 				</li>
 
-				<li class="slide slide__2">
-					<div class="container">
-						<div class="slider_main__caption">
-							<h3>Wear your pants</h3>
-							<h4>World's best template</h4>
-							<h5>Customize me completely</h5>
-							<div class="btn_wrapper">
-								<a href="#" class="btn btn_shadow">purchase now</a>
-							</div>
-						</div>
-						<img class="slide_img__1" src="img/slide_02-1.png" alt="welcome to agency">
-						<img class="slide_img__2" src="img/slide_02-2.png" alt="welcome to agency">
-					</div>
-				</li>
 
 				<li class="slide slide__3">
 					<div class="container">
 						<div class="slider_main__caption">
-							<h3>Wow-wow, slow down</h3>
-							<h4>Don't look at me</h4>
-							<h5>Eat my green dress</h5>
+							<h3>Wow-wow, todas nuestras</h3>
+							<h6>Web son adaptables</h6>
+							<h4>A moviles</h4>
+							<h5>¿La tuya tambien?</h5>
 							<div class="btn_wrapper">
-								<a href="#" class="btn btn_shadow">purchase now</a>
+								<a href="#contact" class="btn btn_shadow">Realizar Cotización</a>
 							</div>
 						</div>
 						<img class="slide_img__1" src="img/slide_03-1.png" alt="welcome to agency">
-						<img class="slide_img__2" src="img/slide_03-2.png" alt="welcome to agency">
+						<img class="slide_img__2" src="img/slide_02-2.png" alt="welcome to agency">
+					</div>
+				</li>				
+
+				<li class="slide slide__2">
+					<div class="container">
+						<div class="slider_main__caption">
+							<h3>Diseños Frescos, Modernos</h3>
+							<h4>Elegantes</h4>							
+							<h4>Y Creativos<h4>
+							<h5>Reflejando siempre tu marca</h5>
+							<div class="btn_wrapper">
+								<a href="#contact" class="btn btn_shadow">Realizar Cotización</a>
+							</div>
+						</div>
+						<img class="slide_img__1" src="img/slide_02-1.png" alt="welcome to agency">
 					</div>
 				</li>
+
 			</ul>
 		</div>
 	</section>
@@ -100,16 +103,15 @@
 	<section id="about_us" class="about_us">
 	<div class="container">
 		<div class="about_us__text">
-			<h2>WHO WE ARE</h2>
-
+			<h2>¿QUE ES VISUALIZO LA WEB?</h2>
 			<div class="row">
 				<div class="col-sm-6">
-					<h3>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. Pellen tesque aliquet leo.</h3>
+					<h3>Visualizo la web es una agencia de comunicaciones y diseño web, formada por diseñadores, ingenieros y desarrolladores con más de 10 años de experiencia en el ámbito del diseño web y medios digitales.</h3>
 				</div>
-
 				<div class="col-sm-6">
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue.</p>
-					<p>Nullam turpis cras dapibus, orci rutrum adipiscing luctus, nisl magna tempus urna id porttito nunc arcu et mauris. Suspe ndisse id justo id nisi suscipit porttitor Pellen tesque aliquet leo id vestibulum eleifend.</p>
+					<p>Durante nuestra trayectoria, visualizo la web ha evolucionado constantemente en el desarrollo de nuevas técnicas y herramientas, permitiéndonos dar una respuesta efectiva a las diferentes necesidades que posee cada cliente.</p>
+					<p>Nuestro objetivo no se concentra sólo en crear simples páginas web, sino tener un sentido de pertenencia en cada proyecto, logrando así un producto de calidad y la satisfacción de cada uno de nuestros clientes.</p>
+					<p>Visualizo la Web opera desde Medellín-Colombia pero con las puertas abiertas para todo el mundo.</p>
 				</div>
 			</div>
 		</div>
@@ -118,35 +120,25 @@
 			<div class="col-sm-3">
 				<div class="about_us__item">
 					<div class="item_hover trs_all"></div>
-					<i class="icon_target"></i>
-					<h4 class="trs_color">Responsive Design</h4>
-					<p class="trs_color">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
-					<div>
-						<a class="btn" href="#">Read more</a>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-sm-3">
-				<div class="about_us__item">
-					<div class="item_hover trs_all"></div>
 					<i class="icon_archive"></i>
-					<h4 class="trs_color">Creative design</h4>
-					<p class="trs_color">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
+					<h4 class="trs_color">Diseño Creativo</h4>
+					<p class="trs_color">Nuestros sitios web cuentan con un diseño limpio pero creativo, siempre reflejando la identidad de tu empresa, marca o producto.</p>
 					<div>
-						<a class="btn" href="#">Read more</a>
+						<a class="btn" href="#">Leer Mas</a>
 					</div>
+
 				</div>
 			</div>
 
 			<div class="col-sm-3">
 				<div class="about_us__item">
-					<div class="item_hover trs_all"></div>
-					<i class="icon_calendar"></i>
-					<h4 class="trs_color">Flat template</h4>
-					<p class="trs_color">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
+					<div class="item_hover trs_all"></div>					
+
+					<i class="icon_target"></i>
+					<h4 class="trs_color">Adaptable a Moviles</h4>
+					<p class="trs_color">Hoy en dia los usarios se conectan mas por smartphone que por PC, debido a eso siempre nuestras web vienen adaptadas a dispositivos moviles.</p>
 					<div>
-						<a class="btn" href="#">Read more</a>
+						<a class="btn" href="#">Leer Mas</a>
 					</div>
 				</div>
 			</div>
@@ -155,11 +147,25 @@
 				<div class="about_us__item">
 					<div class="item_hover trs_all"></div>
 					<i class="icon_cog"></i>
-					<h4 class="trs_color">Easy customize</h4>
-					<p class="trs_color">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
+					<h4 class="trs_color">Desarrollo Eficaz</h4>
+					<p class="trs_color">Cada desarrollo es unico, según la necesidad aplicariamos diferentes lenguajes y tecnologias para que su sistema sea perfecto!.</p>
 					<div>
-						<a class="btn" href="#">Read more</a>
+						<a class="btn" href="#">Leer Mas</a>
 					</div>
+				</div>
+			</div>
+
+			<div class="col-sm-3">
+				<div class="about_us__item">
+					<div class="item_hover trs_all"></div>
+					<i class="icon_calendar"></i>
+					<h4 class="trs_color">Tiempo Record!</h4>
+					<p class="trs_color">Su tiempo es ORO y eso lo sabemos, por eso nuestras páginas web se entregan en un tiempo estimado de 8 dias siempre instaladas en el servidor</p>
+					<div>
+						<a class="btn" href="#">Leer Mas</a>
+					</div>
+
+
 				</div>
 			</div>
 		</div>
@@ -169,15 +175,15 @@
 <!-- OUR TEAM -->
 	<section id="our_team" class="our_team">
 	<div class="container">
-		<h2>Meet Our Team</h2>
+		<h2>Nuestro Equipo</h2>
 
 		<div class="row">
 			<div class="col-md-3">
 				<div class="our_team__item trs_all">
 					<img class="trs_opacity" src="img/our_team__1.jpg" alt="">
 					<div class="our_team__info trs_transform">
-						<h4>Anton Kovalsky
-							<span>CEO, Creative Director</span>
+						<h4>Guille Valencia
+							<span>Desarrollador FrontEnd</span>
 						</h4>
 						<div class="our_team__desc trs_opacity">
 							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus.</p>
@@ -202,8 +208,8 @@
 				<div class="our_team__item trs_all">
 					<img class="trs_opacity" src="img/our_team__2.jpg" alt="">
 					<div class="our_team__info trs_transform">
-						<h4>Mari Gustavo
-							<span>Web Designer</span>
+						<h4>Claudia Giraldo
+							<span>Desarrolladora BackEnd</span>
 						</h4>
 						<div class="our_team__desc trs_opacity">
 							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus.</p>
@@ -228,8 +234,8 @@
 				<div class="our_team__item trs_all">
 					<img class="trs_opacity" src="img/our_team__3.jpg" alt="">
 					<div class="our_team__info trs_transform">
-						<h4>Jonotan Huch
-							<span>Illustrator</span>
+						<h4>Cesar Moreno
+							<span>Arquitecto DBA</span>
 						</h4>
 						<div class="our_team__desc trs_opacity">
 							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus.</p>
@@ -254,8 +260,8 @@
 				<div class="our_team__item trs_all">
 					<img class="trs_opacity" src="img/our_team__4.jpg" alt="">
 					<div class="our_team__info trs_transform">
-						<h4>Anna Balashova
-							<span>Manager</span>
+						<h4>Ramiro Barrientos
+							<span>Analista de Calidad</span>
 						</h4>
 						<div class="our_team__desc trs_opacity">
 							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue. Cras tellus.</p>

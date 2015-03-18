@@ -76,13 +76,17 @@ a:hover, a:focus {text-decoration: none;}
 
 
 /* BUTTONS */
-.btn {padding: 12px 15px;background: none;border: 2px solid #043d5d;font-weight: bold;font-size: 14px;line-height: 1em;color: #043d5d;text-transform: uppercase;letter-spacing: 1px;
+.btn {padding: 12px 15px;background: none;border: 2px solid #fff;font-weight: bold;font-size: 14px;line-height: 1em;color: #fff;text-transform: uppercase;letter-spacing: 1px;
 -webkit-border-radius: 0;
         border-radius: 0;
 }
+
+.btn:hover, .btn:focus, .btn.focus{
+    color:orange;
+}
 .btn_shadow {
--webkit-box-shadow: 3px 3px 0 0 #043d5d;
-        box-shadow: 3px 3px 0 0 #043d5d;
+-webkit-box-shadow: 3px 3px 0 0 #fff;
+        box-shadow: 3px 3px 0 0 #fff;
 
 -webkit-transition: all .3s ease-in-out;
         transition: all .3s ease-in-out;
@@ -272,9 +276,9 @@ header.stuck #menu_main li {height: 50px;padding: 16px 0 0 0;}
 
 #slider_main .slide {padding: 100px 0 0 0;}
 
-#slider_main .slide__1 {background: #68c39f;}
+#slider_main .slide__1 {background: #000;}
 #slider_main .slide__2 {background-image: url("../img/bg-rgpanama.jpg");}
-#slider_main .slide__3 {background: #eb5055;}
+#slider_main .slide__3 {background-image: url("../img/bg-patricia.jpg");}
 
 
 
@@ -313,15 +317,17 @@ opacity: 1;
 
 /* CAPTIONS */
 .slider_main__caption {position: absolute;z-index: 100;}
-.slider_main__caption h3 {padding: 35px 0 0 0;font: bold 40px/1em "Noto Sans";color: #fff;text-transform: uppercase;}
-.slider_main__caption h4 {width: 700px;padding: 5px 0 0 0;font: bold 90px/80px "Noto Sans";color: #fff;text-transform: uppercase;}
-.slider_main__caption h5 {padding: 31px 0 0 0;font: normal 22px/1em "Noto Sans";color: #043d5d;}
-.slider_main__caption h5:before {content: "";width: 70px;height: 20px;display: inline-block;vertical-align: top;margin: 2px 20px 0 0;background: #043d5d;}
+.slider_main__caption h3 {padding: 35px 0 0 0;font: bold 50px/1em "Noto Sans";color: #fff;text-transform: uppercase;}
+.slider_main__caption h4 {width: 700px;padding: 5px 0 0 0;font: bold 70px/60px "Noto Sans";color: #fff;text-transform: uppercase;}
+.slider_main__caption h5 {padding: 31px 0 0 0;font: normal 22px/1em "Noto Sans";color: #fff;}
+.slider_main__caption h5:before {content: "";width: 70px;height: 20px;display: inline-block;vertical-align: top;margin: 2px 20px 0 0;background: orange;}
+.slider_main__caption h6 {width: 700px;padding: 5px 0 0 0;font: bold 40px/1em "Noto Sans";color: #fff;text-transform: uppercase;}
 
 .slider_main__caption .btn_wrapper {padding: 20px 0 0 0;}
 
 .slider_main__caption .btn {padding: 21px 43px;}
 
+.slider_main__caption h3, .slider_main__caption h4, .slider_main__caption h5, .slider_main__caption h6{text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.74);}
 
 
 /* CAPTIONS ANIMATION */
@@ -432,8 +438,8 @@ a.flex-next:hover:after {padding: 0 0 0 8px; color: #000;}
 
 .about_us__text h2 {}
 .about_us__text .row {padding: 22px 0 0;}
-.about_us__text h3 {margin: 27px 0 0 0;font: normal 35px/46px "Noto Sans";color: #333;}
-.about_us__text p {margin: 28px 0 0 0;font: normal 16px/28px "Noto Sans";}
+.about_us__text h3 {margin: 40px 0 0 0;font: normal 25px/32px "Noto Sans";color: #333;text-align: justify;}
+.about_us__text p {margin: 10px 0 0 0;font: normal 16px/23px "Noto Sans";}
 
 
 
